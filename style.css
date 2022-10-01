@@ -197,7 +197,7 @@ section img#mountains_front
 {
 
   border-radius: 10%;
-  height: 23%;
+  height: auto%;
   width: 25%;
   margin-top: 0.7%;
   margin-bottom: 0.5%;
@@ -212,7 +212,7 @@ section img#mountains_front
 {
 
   border-radius: 10%;
-  height: 20%;
+  height: auto%;
   width: 40%;
   margin-top: 0.7%;
   margin-bottom: 1.2%;
