@@ -199,6 +199,7 @@ section img#mountains_front
   border-radius: 10%;
   height: 23%;
   width: 25%;
+  size: 300px;
   margin-top: 0.7%;
   margin-bottom: 0.5%;
   margin-left: 2%;
@@ -213,11 +214,29 @@ section img#mountains_front
 
   border-radius: 10%;
   height: 20%;
+  size: 300px;
   width: 40%;
   margin-top: 0.7%;
   margin-bottom: 1.2%;
   margin-left: 2%;
   display: inline-block;
   position: relative;
+  
+
+}
+
+.zdjęciadotestow3
+{
+
+  border-radius: 10%;
+  height: 27%;
+  width: 20%;
+  size: 300px;
+  margin-top: 0.7%;
+  margin-bottom: 0.5%;
+  margin-left: 2%;
+  display: inline-block;
+  position: relative;
+
 
 }
