@@ -195,7 +195,6 @@ section img#mountains_front
 
 .zdjęciadotestow
 {
-
   border-radius: 10%;
   height: 23%;
   width: 25%;
@@ -205,13 +204,10 @@ section img#mountains_front
   margin-left: 2%;
   display: inline-block;
   position: relative;
-
-
 }
 
 .zdjęciadotestow2
 {
-
   border-radius: 10%;
   height: 20%;
   size: 300px;
@@ -221,13 +217,10 @@ section img#mountains_front
   margin-left: 2%;
   display: inline-block;
   position: relative;
-  
-
 }
 
 .zdjęciadotestow3
 {
-
   border-radius: 10%;
   height: 27%;
   width: 20%;
@@ -237,6 +230,30 @@ section img#mountains_front
   margin-left: 2%;
   display: inline-block;
   position: relative;
+}
 
+.zdjęciadotestow4
+{
+  border-radius: 10%;
+  height: 43%;
+  width: 25%;
+  size: 300px;
+  margin-top: 0.7%;
+  margin-bottom: 0.5%;
+  margin-left: 2%;
+  display: inline-block;
+  position: relative;
+}
 
+.zdjęciadotestow5
+{
+  border-radius: 10%;
+  height: 45%;
+  size: 300px;
+  width: 40%;
+  margin-top: 0.7%;
+  margin-bottom: 1.2%;
+  margin-left: 2%;
+  display: inline-block;
+  position: relative;
 }
